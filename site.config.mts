@@ -11,7 +11,7 @@ export default {
 	title: 'BS',
 	favicon: 'favicon.ico',
 	owner: 'Borja Saugar',
-	profileImage: 'profile.jpeg',
+	profileImage: 'profile.webp',
 	socialLinks: [
 		{
 			name: 'GitHub',
