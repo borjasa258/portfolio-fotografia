@@ -6,8 +6,8 @@ const title = siteConfig.title;
 const base = import.meta.env.BASE_URL;
 const menuItems = [
 	{ name: 'Inicio', link: `${base}` },
-	{ name: 'Galería', link: `${base}/collections` },
-	{ name: 'Sobre mí', link: `${base}/about` },
+	{ name: 'Galería', link: `${base.endsWith('/') ? base : base + '/'}collections` },
+    { name: 'Sobre mí', link: `${base.endsWith('/') ? base : base + '/'}about` },
 ];
 ---
 
