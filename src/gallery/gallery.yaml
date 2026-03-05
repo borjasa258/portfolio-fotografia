@@ -2,25 +2,10 @@ collections:
   - id: nature
     name: Dinamarca
 images:
-  - path: nature/foto-avion.jpg
-    meta:
-      title: Foto desde el avión
-      description: Foto desde lo alto antes de llegar a Dinamarca.
-      collections:
-        - nature
-    exif: {}
   - path: nature/foto15.jpeg
     meta:
       title: Callejón
       description: Foto callejera, captando un callejón local típico.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/foto14.jpeg
-    meta:
-      title: Iglesia de Mármol, Copenhague
-      description: Increible iglesia hecha de marmol.
       collections:
         - featured
         - nature
@@ -141,6 +126,13 @@ images:
     meta:
       title: El río congelado
       description: El frío de Copenhague.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/foto-avion.jpg
+    meta:
+      title: Foto desde el avión
+      description: Foto desde lo alto antes de llegar a Dinamarca.
       collections:
         - nature
     exif: {}
