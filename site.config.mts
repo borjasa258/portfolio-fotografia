@@ -8,19 +8,19 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
+	title: 'BS',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: 'Borja Saugar',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
 			name: 'GitHub',
-			url: 'https://github.com/rockem/astro-photography-portfolio',
+			url: 'https://github.com/borjasa258',
 			icon: Github,
 		} as SocialLink,
 		{
 			name: 'Instagram',
-			url: 'https://www.instagram.com',
+			url: 'https://www.instagram.com/borjasaugar_/',
 			icon: Instagram,
 		} as SocialLink,
 	],

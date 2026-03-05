@@ -1,52 +1,160 @@
 collections:
   - id: nature
-    name: Nature
-  - id: travel
-    name: Travel
-  - id: street
-    name: Street
+    name: Dinamarca
 images:
-  - path: nature/nature-2.jpg
+  - path: nature/foto-avion.jpg
     meta:
-      title: Nature scene 2
-      description: Serene natural landscape capturing the essence of wilderness.
+      title: Foto desde el avión
+      description: Foto desde lo alto antes de llegar a Dinamarca.
       collections:
         - nature
     exif: {}
-  - path: nature/nature-3.jpg
+  - path: nature/foto15.jpeg
     meta:
-      title: Nature scene 3
-      description: Breathtaking natural vista showcasing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-5.jpg
-    meta:
-      title: Nature scene 5
-      description: Natural landscape showing the raw beauty of the environment.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/nature-7.jpg
-    meta:
-      title: Nature scene 7
-      description: Stunning natural landscape capturing environmental beauty.
+      title: Callejón
+      description: Foto callejera, captando un callejón local típico.
       collections:
         - featured
         - nature
     exif: {}
-  - path: nature/nature-8.jpg
+  - path: nature/foto14.jpeg
     meta:
-      title: Nature scene 8
-      description: Beautiful natural vista showcasing environmental wonder.
+      title: Iglesia de Mármol, Copenhague
+      description: Increible iglesia hecha de marmol.
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/foto14.jpeg
+    meta:
+      title: Iglesia de Mármol, Copenhague
+      description: Increible iglesia hecha de marmol.
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/foto12.jpeg
+    meta:
+      title: Termómetro callejero
+      description: La temperatura es especial, tanto que te lo hacen ver en cualquier lugar.
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/foto13.jpeg
+    meta:
+      title: Nevada
+      description: El frío es especial...
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/foto1.jpeg
+    meta:
+      title: Vida callejera.
+      description: Imagen de una calle concurrida en Copenhague.
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/foto3-blancoNegro.jpeg
+    meta:
+      title: Barrio Chino, Odense
+      description: Calle representativa al barrio chino.
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/foto2-horizontal.jpeg
+    meta:
+      title: Foto callejera con comercios
+      description: Captura de cómo son los comercios en las calles .
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/casaChristania.jpg
+    meta:
+      title: Barrio Christiania, Copenhague
+      description: Casa de entrada al barrio libre.
       collections:
         - nature
     exif: {}
-  - path: nature/L1002174.jpg
+  - path: nature/foto8.jpeg
     meta:
-      title: Travel scene 6
-      description: null
+      title: Edificios típicos
+      description: Foto callejera sobre un edificio típico.
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/foto4.jpeg
+    meta:
+      title: Sol, nieve y deporte
+      description: La vida en Dinamarca.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/foto5.jpg
+    meta:
+      title: Calle principal en Christiania
+      description: Calle representativa al barrio libre.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/foto6.jpg
+    meta:
+      title: Edificio institucional, Odense
+      description: Foto callejera.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/foto7.jpg
+    meta:
+      title: Iglesia, Odense
+      description: Una de las calles principales sobre Odense con su iglesia de fondo.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/foto8.jpg
+    meta:
+      title: Un café por Odense
+      description: Luces para relajarte junto a un café.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/foto10.jpg
+    meta:
+      title: Edificio histórico, Odense
+      description: Pista de patinaje sobre hielo junto a un edificio histórico.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/foto9.jpg
+    meta:
+      title: Iglesia, Odense
+      description: La luz y la oscuridad.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/foto17.jpg
+    meta:
+      title: El río congelado
+      description: El frío de Copenhague.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/foto16.jpg
+    meta:
+      title: Barcos parados
+      description: A veces es mejor esperar.
+      collections:
+        - nature
+    exif: {}
+  - path: nature/foto2-oscuro.jpg
+    meta:
+      title: Oscuridad
+      description: Dentro de la oscuridad aparecen luces que te pueden guiar
       collections:
         - featured
         - nature
@@ -64,22 +172,6 @@ images:
       description: Majestic natural landscape displaying environmental splendor.
       collections:
         - nature
-    exif: {}
-  - path: street/stree-1.jpg
-    meta:
-      title: Street photography 1
-      description: Urban scene capturing the essence of city life.
-      collections:
-        - featured
-        - street
-    exif: {}
-  - path: travel/travel-1.jpg
-    meta:
-      title: Travel scene 1
-      description: Journey through remarkable destinations.
-      collections:
-        - featured
-        - travel
     exif: {}
   - path: nature/nature-1.jpg
     meta:
